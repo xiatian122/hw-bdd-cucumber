@@ -189,6 +189,3 @@ DEPENDENCIES
   sass-rails (~> 5.0.3)
   sqlite3
   uglifier (>= 2.7.1)
-
-BUNDLED WITH
-   1.10.6
